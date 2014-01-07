@@ -1,0 +1,18 @@
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/jfryman/puppet-nginx
+[submodule "php"]
+	path = php
+	url = https://github.com/jippi/puppet-php
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/hunner/puppet-wordpress.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "concat"]
+	path = concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
