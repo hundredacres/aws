@@ -22,6 +22,3 @@
 [submodule "vcsrepo"]
 	path = vcsrepo
 	url = https://github.com/puppetlabs/puppetlabs-vcsrepo.git
-[submodule "php"]
-	path = php
-	url = https://github.com/saz/puppet-php.git
