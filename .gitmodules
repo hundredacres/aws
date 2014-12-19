@@ -16,3 +16,12 @@
 [submodule "stdlib"]
 	path = stdlib
 	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "puppet"]
+	path = puppet
+	url = https://github.com/example42/puppet-puppet.git
+[submodule "puppi"]
+	path = puppi
+	url = https://github.com/example42/puppi.git
+[submodule "vcsrepo"]
+	path = vcsrepo
+	url = https://github.com/puppetlabs/puppetlabs-vcsrepo.git
